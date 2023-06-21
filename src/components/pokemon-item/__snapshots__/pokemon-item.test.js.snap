@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonItem/> happy case 1`] = `
+<body>
+  <div>
+    <div>
+      Bulbasur
+    </div>
+  </div>
+</body>
+`;

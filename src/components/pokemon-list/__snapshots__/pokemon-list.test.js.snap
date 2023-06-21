@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonList/> renders Loading... when pokemons is null 1`] = `
+<body>
+  <div>
+    <div>
+      Loading...
+    </div>
+  </div>
+</body>
+`;
+
+exports[`<PokemonList/> renders some pokemons 1`] = `
+<body>
+  <div>
+    <div
+      id="pokemon-list"
+    >
+      <div>
+        Bulbasur
+      </div>
+      <div>
+        Charmander
+      </div>
+    </div>
+  </div>
+</body>
+`;
